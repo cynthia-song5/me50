@@ -65,9 +65,10 @@ Technology Used:
 * Displaying images of each exercise within workouts for better understanding
 
 * Adding progress tracking and achievement badges to further incentivize participation
-
-Video Demostration: https://www.youtube.com/watch?v=6Ot58wOm3WI
-
+  
 * Enabling multi-user access with secure authentication for better usability
 
 * This project aims to make exercising more engaging and sustainable for elderly patients, ultimately improving their overall well-being.
+
+
+Video Demostration: https://www.youtube.com/watch?v=6Ot58wOm3WI
