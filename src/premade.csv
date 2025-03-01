@@ -1,0 +1,10 @@
+workoutName,numberOfExercises,intensity,content
+Full Body Beginner Workout,3,1,Marching,12,Knee Bends,10,Kick Back,13
+Lower Body Beginner Workout,3,1,Marching,15,Knee Bends,15,Kick Back,15
+Full Body Beginner Intermediate Workout Version 1,5,2,Side Kick,30,Marching,30,Toe Raises,25,Kick Back,30,Legs Apart,40
+Full Body Beginner Intermediate Workout Version 2,5,2,Knee Raises,30,Knee Bends,30,Chair Push-up,10,Toe Raises,25,Kick Back,30
+Full Body Intermediate Workout,8,3,Heel Raises,30,Squats,30,Chair Push-up,30,Side Kick,30,Marching,30,Kick Back,30,Toe Raises,30,Legs Apart,50
+Lower Body Intermediate Workout,8,3,Heel Raises,40,Squats,30,Chair Push-up,20,Side Kick,30,Marching,40,Kick Back,25,Toe Raises,40,Legs Apart,50
+Sue Smith: for knee pain,1,3,Side Kick,15,Heel Raises,5,Knee Raises,20
+Bob Bill: easy1,1, Marching,15, Knee Bends,4
+Bob Bill: yt3,0, Kick Back,7
